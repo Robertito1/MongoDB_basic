@@ -1,4 +1,4 @@
 # tit
-![files](files.png)
+![files](file.png)
 ![database](database.png)
 ![collection](collection.png)
